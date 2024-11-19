@@ -1,0 +1,86 @@
+ros-humble-hri-face-body-matcher (2.1.0-1jammy) jammy; urgency=high
+
+  * re-license as Apache 2.0
+  * Contributors: Séverin Lemaignan
+
+ -- Luka Juricic <luka.juricic@pal-robotics.com>  Tue, 19 Nov 2024 00:00:00 -0000
+
+ros-humble-hri-face-body-matcher (2.0.3-1jammy) jammy; urgency=high
+
+  * make pal_module_cmake an optional dependency
+  * Contributors: Séverin Lemaignan
+
+ -- Luka Juricic <luka.juricic@pal-robotics.com>  Mon, 16 Sep 2024 00:00:00 -0000
+
+ros-humble-hri-face-body-matcher (2.0.2-1jammy) jammy; urgency=high
+
+  * publish basic diagnostics
+  * Contributors: Séverin Lemaignan
+
+ -- Luka Juricic <luka.juricic@pal-robotics.com>  Tue, 20 Aug 2024 00:00:00 -0000
+
+ros-humble-hri-face-body-matcher (2.0.1-1jammy) jammy; urgency=high
+
+  * add pal module
+  * Contributors: Luka Juricic
+
+ -- Luka Juricic <luka.juricic@pal-robotics.com>  Wed, 24 Apr 2024 00:00:00 -0000
+
+ros-humble-hri-face-body-matcher (2.0.0-1jammy) jammy; urgency=high
+
+  * add example in README
+  * bump copyright year; increase version; fix README
+  * port test to ros 2 humble
+  * port node and launch file to ros 2 humble
+  * Contributors: Luka Juricic
+
+ -- Luka Juricic <luka.juricic@pal-robotics.com>  Wed, 14 Feb 2024 00:00:00 -0000
+
+ros-humble-hri-face-body-matcher (0.1.5-1jammy) jammy; urgency=high
+
+  * use development sqlite3 dependency
+  * Contributors: Luka Juricic
+
+ -- Luka Juricic <luka.juricic@pal-robotics.com>  Thu, 06 Jul 2023 00:00:00 -0000
+
+ros-humble-hri-face-body-matcher (0.1.4-1jammy) jammy; urgency=high
+
+  * add sqlite3 dependency
+  * Contributors: Luka Juricic
+
+ -- Luka Juricic <luka.juricic@pal-robotics.com>  Thu, 06 Jul 2023 00:00:00 -0000
+
+ros-humble-hri-face-body-matcher (0.1.3-1jammy) jammy; urgency=high
+
+  * change RoI message type to hri_msgs/NormalizedRegionOfInterest2D
+  * fix tests reliability
+  * align test file structure
+  * Contributors: Luka Juricic
+
+ -- Luka Juricic <luka.juricic@pal-robotics.com>  Wed, 05 Jul 2023 00:00:00 -0000
+
+ros-humble-hri-face-body-matcher (0.1.2-1jammy) jammy; urgency=high
+
+  * add missing blas dependency to package.xml
+  * tweak CMakeLists to please the buildfarm debian generation
+  * Contributors: Séverin Lemaignan
+
+ -- Luka Juricic <luka.juricic@pal-robotics.com>  Wed, 21 Jun 2023 00:00:00 -0000
+
+ros-humble-hri-face-body-matcher (0.1.1-1jammy) jammy; urgency=high
+
+  * add explicit dependency on BLAS
+  * Contributors: Séverin Lemaignan
+
+ -- Luka Juricic <luka.juricic@pal-robotics.com>  Tue, 20 Jun 2023 00:00:00 -0000
+
+ros-humble-hri-face-body-matcher (0.1.0-1jammy) jammy; urgency=high
+
+  * README line wrapping
+  * first implementation
+  * Initial commit
+  * Contributors: Luka Juricic, Séverin Lemaignan, lukajuricic
+
+ -- Luka Juricic <luka.juricic@pal-robotics.com>  Fri, 16 Jun 2023 00:00:00 -0000
+
+
